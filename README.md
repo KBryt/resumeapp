@@ -1,2 +1,3 @@
-# Upcoming
-My personal site that captures my resume, blogs and projects
+#Electronic Resume
+This app contains my updated resume built with django to showcase my blog posts and portfolio.
+
